@@ -1,5 +1,10 @@
 ## Hi there👋
 
+<p align="center">
+    <img src='https://github-readme-stats.vercel.app/api?username=nanoosushi&theme=vue-dark&rank_icon=github' height=200 style="margin: 0 10px;"/>
+    <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=nanoosushi&theme=vue-dark&layout=donut' height=200 style="margin: 0 10px;"/>
+</p>
+
 <!--
 **nanoosushi/nanoosushi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
